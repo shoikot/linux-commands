@@ -1,5 +1,3 @@
-The new file
-Test file has several line 
 vim has two modes : 
 ----Insert mode - press i to move to insert mode 
 ----command mode  -  press Esc to move to command  mode 
@@ -8,8 +6,7 @@ vim has two modes :
 
 ---In command mode if press gg it will move your cursor to the top 
 --Incommnd mode if you press U it will undo you changes 
--- press x to delete char one by one in command mode
---  
+-- press x to delete char one by one in command mode  
 -- use shift + zz to save and exit the file
 
 -- use dd to delete line
