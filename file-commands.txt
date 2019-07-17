@@ -1,0 +1,13 @@
+---- mv (option) filename.txt to filename2.txt 
+---- mv  command can also be used for moving file into another directory with relative path 
+---- rename common 
+ 
+---- pyRenamer can also be used to mass rename 
+ 
+---- sudo apt-get install pyrenamer 
+
+
+
+
+
+

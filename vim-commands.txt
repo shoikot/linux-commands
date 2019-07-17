@@ -1,0 +1,21 @@
+The new file
+Test file has several line 
+vim has two modes : 
+----Insert mode - press i to move to insert mode 
+----command mode  -  press Esc to move to command  mode 
+
+- arrow keys allows to move around 
+
+---In command mode if press gg it will move your cursor to the top 
+--Incommnd mode if you press U it will undo you changes 
+-- press x to delete char one by one in command mode
+--  
+-- use shift + zz to save and exit the file
+
+-- use dd to delete line
+-- use yy to copy line 
+-- use p to paste content of buffer
+-- [[ or gg move to beginning of the file 
+-- [[ or G move to end of the file 
+-- Esc + w to save changes 
+-- 
